@@ -1,4 +1,4 @@
-#Diplomová práce
+Diplomová práce
 
 Ultrazvukový anemometr s kompenzací vlivů prostředíTento repozitář obsahuje kompletní zdrojové kódy a technickou dokumentaci k diplomové práci autora Jakuba Švrčka (Univerzita obrany, 2026). Cílem projektu byl návrh a realizace funkčního prototypu anemometru postaveného na platformě ESP32.  
 
