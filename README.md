@@ -1,2 +1,2 @@
-# Diplomov-_pr-ce
+# Diplomov-_prace
 Diplomová práce
