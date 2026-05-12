@@ -3,6 +3,7 @@ Diplomová práce
 Ultrazvukový anemometr s kompenzací vlivů prostředíTento repozitář obsahuje kompletní zdrojové kódy a technickou dokumentaci k diplomové práci autora Jakuba Švrčka (Univerzita obrany, 2026). Cílem projektu byl návrh a realizace funkčního prototypu anemometru postaveného na platformě ESP32.  
 
 📂 Struktura repozitáře
+
 /firmware – Zdrojový kód pro mikrokontrolér ESP32 (C++/Arduino IDE).  Obsahuje algoritmy pro simultánní buzení, měření Time-of-Flight a webový server.  
 
 /python_app – Diagnostická a logovací aplikace v jazyce Python.  Nástroje pro vizualizaci dat, výpočet průměrů a export do .csv.  
