@@ -6,7 +6,7 @@
 
 // --- Konfigurace geometrie ---
 // Výchozí hodnoty se po zavolání /zero přepočítají podle reálného kusu
-float LY = 0.1766; 
+float LY = 0.1966; 
 float LX = 0.1939; 
 
 // --- Definice Pinů (dle tvého schématu) ---
